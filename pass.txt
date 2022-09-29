@@ -1,0 +1,7 @@
+   {
+      "id":2,
+      "difficulty":"Medium",
+      "chractersUsed":"lowercase,uppercase,numbers",
+      "BasedOn":"Names",
+      "Password":"[Enter the List]",
+   },
