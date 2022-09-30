@@ -156,4 +156,11 @@
       "chractersUsed":"numbers",
       "Password":"696969696",
 },
+
+     {
+      "id": 23,
+      "difficulty":"hard",
+      "chractersUsed":"numbers+characters",
+      "Password":"R@hu|Be$t!e",
+   }
 ]
