@@ -24,7 +24,7 @@
       "Password":"@RaHul123",
 
    },{
-      "id":1,
+      "id":19,
       "difficulty":"very easy",
       "chractersUsed":"numbers",
       "Password":"12345678",
@@ -126,6 +126,12 @@
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
+   },
+   {
+      "id": 20,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"abcd@9846%123",
    }
 
 ]
