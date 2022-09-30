@@ -286,7 +286,6 @@
       "chractersUsed":"numbers+characters+special characters",
       "Password":"megs@surname_123",
 },
-,
 {
       "id":46,
       "difficulty":"easy",
