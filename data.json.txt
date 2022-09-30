@@ -649,6 +649,14 @@
 }
 
 {
+      "id":49,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"asdfghjkl@1234",
+},
+
+
+{
       "id":23,
       "difficulty":"hard",
       "chractersUsed":"alphabets, numbers, special characters",
@@ -661,9 +669,6 @@
       "Password":"Boom@123",
 },
 {
-
-
-},{
 
     "id":55,
       "difficulty":"medium",
