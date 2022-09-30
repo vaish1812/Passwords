@@ -86,14 +86,14 @@
       "chractersUsed":"numbers+characters",
       "Password":"name_123",
    },
-     
-   {
+    {
       "id":14,
-      "difficulty":"medium",
-      "chractersUsed":"numbers+characters",
-      "Password":"surname_123",
-},
-{
+      "difficulty":"Medium",
+      "chractersUsed":"characters+numbers",
+      "Password":"Pratham_3105",
+  
+    },
+    {
       "id":15,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters+special_characters",
@@ -105,24 +105,31 @@
       "difficulty":"easy",
       "chractersUsed":"numbers+characters",
       "Password":"pass@123",
-},
+    },
    {
       "id":17,
-
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000",
 },
-{      
-"id": 18,
+   {      
+      "id": 18,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
    },
    {
       "id":19,
-      "difficulty":"very easy",
-      "chractersUsed":"numbers",
-      "Password":"12345678",
+      "difficulty":"Hard",
+      "chractersUsed":"num , upper & lower case & special char",
+      "Password":"ItsNoneofyourbu!!sneSS",
+   },
+      {
+      "id":20,
+      "difficulty":"Hard",
+      "chractersUsed":"lowercase,uppercase,numbers, special char",
+      "BasedOn":"character+number",
+      "Password":"Walchand@123",
    }
+
 ]
