@@ -208,6 +208,13 @@
       "Password":"pja@9846%123",
    },
 
+   {      
+"id": 57,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"sdh%osaij",
+
+
     {      
 "id": 19,
       "difficulty":"hard",
@@ -663,6 +670,7 @@
       "chractersUsed":"aplhanumeric",
       "Password":"dihdgubihenwmpsdjbajgvhsan,lasf;lmlnjncnoseufieouvowewuopwrromrlnkdkshfkejnfleurngfjhbfuestrbytvuesi30rpbw3pr03rq30",
      
+
 
 
 
