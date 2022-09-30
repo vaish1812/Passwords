@@ -769,12 +769,15 @@
 {
   "id":62,
   "difficulty":"easy",
-
   "chractersUsed":["alphabets","numbers","special characters"],
   "Password":"123@pass"
 
-  "chractersUsed":["alphabets","special characters","numbers"],
-  "Password":"Keyboard@321"
+},
+{
+  "id":63,
+  "difficulty":"easy",
+  "chractersUsed":["alphabets","numbers","special characters"],
+  "Password":"samsung@123"
 
 }
 ]
