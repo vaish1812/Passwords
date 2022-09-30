@@ -27,7 +27,11 @@
    },
 
    },{
+
+      "id":19,
+
       "id":5,
+
       "difficulty":"very easy",
       "chractersUsed":"numbers",
       "Password":"12345678",
@@ -191,6 +195,15 @@
        "id":15,
       "difficulty":"difficult",
       "chractersUsed":"numbers+characters",
+
+      "Password":"pja@9846%123",
+   },
+   {
+      "id": 20,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"abcd@9846%123",
+
       "Password":"tr%$ak980l54$",
       },
    
@@ -540,6 +553,7 @@
       "chractersUsed":"aplhanumeric",
       "Password":"dihdgubihenwmpsdjbajgvhsan,lasf;lmlnjncnoseufieouvowewuopwrromrlnkdkshfkejnfleurngfjhbfuestrbytvuesi30rpbw3pr03rq30",
      
+
    }
    ,
    {
