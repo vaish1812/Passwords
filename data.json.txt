@@ -405,6 +405,13 @@
       "chractersUsed":numbers,
       "Password":"112345",
 
+},
+{
+      "id":52,
+      "difficulty":"Hard",
+      "chractersUsed":"numbers","characters",
+      "Password":"VikasGouda4Alwasys",
+
 }
 
 ]
