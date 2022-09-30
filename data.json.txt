@@ -29,6 +29,19 @@
       "difficulty":"difficult",
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"@RaHul123"
+
+   },{
+      "id":5,
+      "difficulty":"very easy",
+      "chractersUsed":"numbers",
+      "Password":"12345678"
+   },
+   {
+      "id":6,
+      "difficulty":"hard",
+      "chractersUsed":"characters",
+      "Password":"qwertyuiopasdfghjklzxcvbnmnjhvshjfvyefyegfywgygegwefgsfgsfgesg",
+      "Password":"@RaHul123"
    },
    {
       "id":1,
@@ -37,67 +50,72 @@
       "Password":"12345678"
    },
 
-   
    {
-      "id":5,
+      "id":7,
       "difficulty":"difficult",
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"Pacer@98!"
    },
    {
-      "id":6,
+      "id":8,
       "difficulty":"difficult",
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"TheHacer@#1234JustAHacker"
    },
    {
-      "id":7,
+      "id":9,
       "difficulty":"difficult",
       "chractersUsed":"2Uppercase,2Lowercase,SpecialChar&num",
       "Password":"GDsc#15"
    },
       {
-      "id":8,
+      "id":10,
       "difficulty":"difficult",
       "chractersUsed":"5Uppercase,2Lowercase,SpecialChar&num",
       "Password":"NEHALpr#15"
    },
    {
-      "id":9,
+      "id":11,
       "difficulty":"difficult",
       "chractersUsed":"1Uppercase,1Lowercase,SpecialChar&num",
       "Password":"Ab#"
    },
    {
-      "id":10,
+      "id":12,
       "difficulty":"Easy",
       "chractersUsed":"1Uppercase,7Lowercase",
       "Password":"Password"
    },
    {
-      "id":11,
+      "id":13,
       "difficulty":"Easy",
       "chractersUsed":"2Uppercase,2Lowercase",
       "Password":"GdSc"
    },
    {
-      "id":12,
+      "id":14,
       "difficulty":"Medium",
       "chractersUsed":"2Uppercase,10Lowercase",
       "Password":"abcdefghijKL"
    },
    {
-      "id":13,
+      "id":14,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"name_123"
    },
    {
-      "id":14,
+      "id":15,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"surname_123"
 },
+{
+      "id":16,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters+special_characters",
+      "Password":"code@_123"
+     },
 
     {
       "id":15,
@@ -242,7 +260,38 @@
   "Password":"0000"
 },
 {      
-"id": 20,
+"id": 19,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"pja@9846%123"
+   },
+   {
+      "id": 20,
+      "difficulty":"easy",
+      "charactersUsed":"characters",
+      "Password":"password"
+   },
+   {      
+"id":"21",
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"prashi@123"
+      },
+      {
+      "id":"22",
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"55555555555"
+},
+   {
+      "id":23,
+      "difficulty":"very easy",
+      "chractersUsed":"numbers",
+      "Password":"12345678"
+
+   },
+
+{      "id": 20,
   "difficulty":"medium",
   "chractersUsed":"numbers+characters",
   "Password":"pja@9846%123"
@@ -254,14 +303,18 @@
   "Password":"987654321"
 },
 {
-
   "id":16,
   "difficulty":"medium",
   "chractersUsed":"numbers",
   "Password":"qwerty@123"
 },
 {
-  "id":15,
+      "id":25,
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"696969696"
+},
+{      "id":15,
   "difficulty":"medium",
   "chractersUsed":"numbers+characters",
   "Password":"sk@234Rds45"
