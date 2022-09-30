@@ -246,5 +246,12 @@
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"surname_123",
+}
+{
+      "id":44,
+      "difficulty":"hard",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"koko@surname_12%3",
 },
+
 ]
