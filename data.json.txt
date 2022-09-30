@@ -503,5 +503,12 @@
       "chractersUsed":["alphabets","numbers"],
       "Password":"OmArStK45123",
 }
+,
+{
+      "id":60,
+      "difficulty":"Hard",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"Kala#1234567",
+}
 
 ]
