@@ -420,6 +420,14 @@
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Boom@123",
 
+},
+{
+      "id":61,
+      "difficulty":"very easy",
+      "chractersUsed":"numbers",
+      "Password":"123456789",
+   },
+
 
 },
 {
@@ -453,6 +461,7 @@
 
 
 }
+
 
       "difficulty":"difficult",
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
