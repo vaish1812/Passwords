@@ -114,9 +114,15 @@
       "Password":"0000",
 },
 {      
-"id": 18,
+      "id": 18,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
+   },
+   {      
+      "id": 19,
+      "difficulty":"hard",
+      "chractersUsed":"numbers+characters+special",
+      "Password":"myNameIsKhan@1234*",
    }
 ]
