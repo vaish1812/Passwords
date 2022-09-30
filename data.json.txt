@@ -38,5 +38,10 @@
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"Pacer@98!",
    },
-
+   {
+      "id":6,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"TheHacer@#1234JustAHacker",
+   },
 ]
