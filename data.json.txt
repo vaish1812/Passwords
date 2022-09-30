@@ -311,7 +311,12 @@
       "Password":"Password@123",
 
 }
-
+{
+      "id":49,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"asdfghjkl@1234",
+},
 ]
 
 
