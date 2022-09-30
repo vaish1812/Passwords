@@ -522,6 +522,14 @@
   "difficulty":"Hard",
   "chractersUsed":["alphabets","numbers","special characters"],
   "Password":"Kala#1234567"
+},
+
+
+{
+      "id":62,
+      "difficulty":"Hard",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"@Kartik@84756",
 }
 
 ]
