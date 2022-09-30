@@ -97,6 +97,13 @@
    },
 
    {
+      "id":20,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"dgied@123",
+   },
+     
+   {
       "id":15,
 
       "difficulty":"medium",
