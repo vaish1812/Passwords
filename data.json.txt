@@ -302,6 +302,9 @@
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"surname_123",
+
+},
+
 }
 
    {
@@ -312,6 +315,7 @@
    },
 
 
+
 {
       "id":44,
       "difficulty":"hard",
@@ -320,6 +324,12 @@
 },
 {
       "id":45,
+
+      "difficulty":"hard",
+      "chractersUsed":["alphabets", "numbers","special_characters"]
+      "Password":"u90e8n290n90qw-enf238-1",
+},
+
 
       "difficulty":"hard",
       "chractersUsed":"numbers+characters+special characters",
@@ -349,6 +359,7 @@
       "Password":"Password@123",
 
 }
+
 
 ]
 
