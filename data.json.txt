@@ -105,6 +105,16 @@
       "Password":"name_123"
    },
    {
+      "id":14,
+      "difficulty":"Medium",
+      "chractersUsed":"characters+numbers",
+      "assword":"Pratham_3105",
+  
+    },
+    {
+      "id":15,
+=======
+   {
       "id":15,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -112,6 +122,7 @@
 },
 {
       "id":16,
+
       "difficulty":"medium",
       "chractersUsed":"numbers+characters+special_characters",
       "Password":"code@_123"
@@ -121,10 +132,17 @@
       "id":15,
       "difficulty":"easy",
       "chractersUsed":"numbers+characters",
+
+      "Password":"pass@123",
+    },
+   {
+      "id":17,
+
       "Password":"pass@123"
 },
    {
       "id":16,
+
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000"
@@ -259,8 +277,13 @@
   "chractersUsed":"numbers",
   "Password":"0000"
 },
+
+   {      
+      "id": 18,
+
 {      
 "id": 19,
+
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123"
@@ -283,6 +306,13 @@
       "chractersUsed":"numbers",
       "Password":"55555555555"
 },
+   {
+
+      "id":19,
+      "difficulty":"Hard",
+      "chractersUsed":"num , upper & lower case & special char",
+      "Password":"ItsNoneofyourbu!!sneSS",
+   }
    {
       "id":23,
       "difficulty":"very easy",
@@ -426,7 +456,6 @@
 {
 
   "id":17,
-
   "difficulty":"moderate",
   "chractersUsed":"numbers",
   "Password":"9421249051"
@@ -446,9 +475,6 @@
       "chractersUsed":"numbers",
       "Password":"papa@123",
 
-
-
-
 },
 {
       "id":29,
@@ -467,19 +493,16 @@
 
 },
 {
-      "id":31,
-      "difficulty":"hard",
-
       "id":30,
       "difficulty":"Little bit hard",
       "chractersUsed":["alphabets","numbers"]
       "Password":"mohit1235",
-
+      }
+{
   "id":27,
   "difficulty":"hard",
   "chractersUsed":"numbers",
   "Password":"9920826082"
-
 },
 
 {
@@ -766,4 +789,5 @@
   "chractersUsed":["alphabets"],
   "Password":"qwerty"
 }
+
 ]
