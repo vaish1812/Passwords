@@ -765,5 +765,11 @@
   "difficulty":"easy",
   "chractersUsed":["alphabets"],
   "Password":"qwerty"
+},
+{
+  "id":62,
+  "difficulty":"easy",
+  "chractersUsed":["alphabets","numbers","special characters"],
+  "Password":"123@pass"
 }
 ]
