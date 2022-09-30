@@ -23,6 +23,9 @@
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"@RaHul123",
 
+
+   },
+
    },{
       "id":5,
       "difficulty":"very easy",
@@ -138,6 +141,22 @@
 "id":"22",
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
+      "Password":"pja@9846%123",
+   },
+ {
+      "id":15,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"gau123",
+   },
+
+    {
+      "id": 19,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"%flopkat.44",
+   }
+
       "Password":"prashi@123"
       },
       {
@@ -201,5 +220,4 @@
       "chractersUsed":["alphabets","numbers","special characters"]
       "Password":" dmz342#@cmz",
 }
-
 ]
