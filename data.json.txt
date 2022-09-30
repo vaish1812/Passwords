@@ -88,8 +88,16 @@
    },
    {
       "id":14,
+
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"0000",
+},
+{      
+"id": 15,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
+
    },
 ]
