@@ -420,6 +420,14 @@
 },
 {
 
+},
+{
+      "id":29,
+      "difficulty":"medium",
+      "chractersUsed":"numbers",
+      "Password":"papa@123",
+
+
 
 },
 {
@@ -678,6 +686,7 @@
   "difficulty":"Hard",
   "chractersUsed":["alphabets","numbers","special characters"],
   "Password":"Kala#1234567"
+
 }
 ,
 {
