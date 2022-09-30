@@ -257,5 +257,11 @@
       "chractersUsed":"numbers+characters+special characters",
       "Password":"koko@surname_12%3",
 },
+ {
+      "id":55,
+      "difficulty":"easy",
+      "chractersUsed":"numbers+characters",
+      "Password":"Pokemon@321",
+}
 
 ]
