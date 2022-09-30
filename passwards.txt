@@ -1,0 +1,31 @@
+   [{
+      "id":61,
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"66666666",
+   },
+
+   {
+      "id":62,
+      "difficulty":"hard",
+      "chractersUsed":"num & lowercase",
+      "Password":"4674368685",
+   },
+   {
+      "id":63,
+      "difficulty":"Hard",
+      "chractersUsed":"special char , num,Uppercase & Lowercase",
+      "Password":"Di[anlajdhy",
+   },
+   {
+      "id":64,
+      "difficulty":"hard",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"@#562722",
+
+   },{
+      "id":65,
+      "difficulty":"hard",
+      "chractersUsed":"numbers",
+      "Password":"866756t76767",
+   }]
