@@ -257,5 +257,8 @@
       "chractersUsed":"numbers+characters+special characters",
       "Password":"koko@surname_12%3",
 },
-
+      {"id":45
+      "difficulty":"Hard",
+      "chractersUsed":"characters",
+      "Password":"Baap ko mat sikha",
 ]
