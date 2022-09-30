@@ -79,7 +79,7 @@
       "difficulty":"Medium",
       "chractersUsed":"2Uppercase,10Lowercase",
       "Password":"abcdefghijKL",
-   }
+   },
    {
       "id":13,
       "difficulty":"medium",
@@ -88,7 +88,6 @@
    },
    {
       "id":14,
-
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000",
@@ -100,4 +99,9 @@
       "Password":"pja@9846%123",
 
    },
-]
+{      
+"id": 16,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"ga@1234",
+   },
