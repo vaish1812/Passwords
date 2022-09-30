@@ -381,6 +381,15 @@
 
 },
 {
+      "id":51,
+      "difficulty":"Medium",
+      "chractersUsed":"characters",
+      "Password":"qwerasdfzxcv",
+   }
+
+
+},
+{
     "id":55,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
