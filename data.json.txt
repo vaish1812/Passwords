@@ -86,4 +86,10 @@
       "chractersUsed":"numbers+characters",
       "Password":"name_123",
    },
+   {
+      "id":14,
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"0000",
+   },
 ]
