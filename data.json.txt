@@ -330,6 +330,19 @@
 },
 {
 
+      "id":26,
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"696969696",
+
+},
+{
+      "id":27,
+      "difficulty":"hard",
+      "chractersUsed":"numbers",
+      "Password":"9920826082",
+
+
   "id":19,
   "difficulty":"medium",
   "chractersUsed":" lowercase",
@@ -429,13 +442,37 @@
 
 
 
+
 },
 {
+      "id":29,
+      "difficulty":"difficult",
+      "chractersUsed":"numbers+characters",
+      "Password":"Pritam@0204",
+
+},
+{
+      "id":30,
+      "difficulty":"difficult",
+      "chractersUsed":"numbers+characters",
+      "Password":"Loki@4343",
+
+
+
+},
+{
+      "id":31,
+      "difficulty":"hard",
+
+      "id":30,
+      "difficulty":"Little bit hard",
+      "chractersUsed":["alphabets","numbers"]
+      "Password":"mohit1235",
+
   "id":27,
   "difficulty":"hard",
   "chractersUsed":"numbers",
   "Password":"9920826082"
-
 
 },
 
@@ -455,6 +492,19 @@
 
 },
 {
+      "id":32,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"surname_123",
+}
+
+   {
+      "id":30,
+      "difficulty":"medium",
+      "chractersUsed":"special char , num,Uppercase & Lowercase",
+      "Password":"$!DDH!@9910044576876854",
+   },
+
   "id":30,
   "difficulty":"difficult",
   "chractersUsed":"numbers+characters",
@@ -463,6 +513,7 @@
 
 
 },
+
 {
   "id":31,
   "difficulty":"hard",
@@ -474,6 +525,19 @@
 
 },
 {
+
+      "id":45,
+      "difficulty":"easy",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"megs@surname_123",
+},
+{
+      "id":46,
+      "difficulty":"easy",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"Password@321",
+   }
+   {
   "id":31,
   "difficulty":"To easy",
   "chractersUsed":["alphabets"],
@@ -695,5 +759,4 @@
   "chractersUsed":["alphabets"],
   "Password":"qwerty"
 }
-
-}]
+]>>>>>>> main
