@@ -49,5 +49,35 @@
       "difficulty":"difficult",
       "chractersUsed":"2Uppercase,2Lowercase,SpecialChar&num",
       "Password":"GDsc#15",
+   },
+      {
+      "id":8,
+      "difficulty":"difficult",
+      "chractersUsed":"5Uppercase,2Lowercase,SpecialChar&num",
+      "Password":"NEHALpr#15",
+   },
+   {
+      "id":9,
+      "difficulty":"difficult",
+      "chractersUsed":"1Uppercase,1Lowercase,SpecialChar&num",
+      "Password":"Ab#",
+   },
+   {
+      "id":10,
+      "difficulty":"Easy",
+      "chractersUsed":"1Uppercase,7Lowercase",
+      "Password":"Password",
+   },
+   {
+      "id":11,
+      "difficulty":"Easy",
+      "chractersUsed":"2Uppercase,2Lowercase",
+      "Password":"GdSc",
+   },
+   {
+      "id":12,
+      "difficulty":"Medium",
+      "chractersUsed":"2Uppercase,10Lowercase",
+      "Password":"abcdefghijKL",
    }
 ]
