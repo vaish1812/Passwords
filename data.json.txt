@@ -86,4 +86,10 @@
       "chractersUsed":"numbers+characters",
       "Password":"name_123",
    },
+     {
+      "id":15,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters+special_characters",
+      "Password":"code@_123",
+   }
 ]
