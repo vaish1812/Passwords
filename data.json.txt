@@ -187,6 +187,13 @@
       "chractersUsed":"numbers",
       "Password":"67656569",
 
+},
+{
+      "id":29,
+      "difficulty":"hard",
+      "chractersUsed":["alphabets","numbers","special characters"]
+      "Password":"us4$223Kdd",
+
 }
 
 ]
