@@ -468,15 +468,25 @@
 },
 {
       "id":46,
+
       "difficulty":"easy",
       "chractersUsed":"numbers+characters+special characters",
       "Password":"Hello@world_123",
 {
        "id":54,
+
       "difficulty":"medium",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Password@123",
 },
+
+{
+      "id":47,
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"54321",
+}
+
 {
       "id":23,
       "difficulty":"hard",
@@ -488,6 +498,7 @@
       "difficulty":"medium",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Boom@123",
+
 
 
 },{
