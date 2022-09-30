@@ -512,6 +512,12 @@
       "chractersUsed":"numbers+characters+special characters",
       "Password":"koko@surname_12%3",
 },
+{
+      "id":45,
+      "difficulty":"hard",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"okokokokok@123"
+},
 
  {
       "id":55,
