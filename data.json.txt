@@ -26,10 +26,6 @@
 
    },
 
-   },{
-
-      "id":19,
-
       "id":5,
 
       "difficulty":"very easy",
@@ -656,18 +652,30 @@
 }
 ,
 {
-  "id":68,
+      "id":68
+      "difficulty":"easy",
+      "charactersUsed":["alphabets"],
+      "Password":"qwerty",
+},
+{
+      "id":69,
+      "difficulty":"easy",
+      "charactersUsed":["alphabets,symbols"],
+      "Password":"warrior",
+},
+  "id":70,
   "difficulty":"medium",
   "chractersUsed":["alphabets","numbers"],
   "Password":"Messi30",
 },
 
 {
-      "id":69,
+      "id":71,
       "difficulty":"very easy",
       "chractersUsed":"alphabets",
       "Password":"asdfghjkl",
    },
+
 
 
 
