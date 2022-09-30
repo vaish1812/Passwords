@@ -128,6 +128,14 @@
       "Password":"pja@9846%123",
    },
    {
+
+      "id":16,
+
+      "difficulty":"medium",
+      "chractersUsed":"numbers",
+      "Password":"qwerty@123",
+}
+
       "id":15,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -311,6 +319,7 @@
       "Password":"Password@123",
 
 }
+
 
 ]
 
