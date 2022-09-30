@@ -86,16 +86,14 @@
       "chractersUsed":"numbers+characters",
       "Password":"name_123",
    },
-
-
-    {
+     
+   {
       "id":14,
-      "difficulty":"Medium",
-      "chractersUsed":"characters+numbers",
-      "Password":"Pratham_3105",
-  
-    },
-    {
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"surname_123",
+},
+{
       "id":15,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters+special_characters",
@@ -107,25 +105,24 @@
       "difficulty":"easy",
       "chractersUsed":"numbers+characters",
       "Password":"pass@123",
-    },
-   
+},
    {
       "id":17,
+
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000",
-   },
-   {      
-      "id": 16,
+},
+{      
+"id": 18,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
    },
    {
-      "id": 18,
+      "id":19,
       "difficulty":"medium",
-      "chractersUsed":"numbers+characters",
-      "Password":"pja@9846%123",
-   }
-
+      "chractersUsed":" lowercase",
+      "Password":"hellohowru",
+   },
 ]
