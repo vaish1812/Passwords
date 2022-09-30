@@ -422,4 +422,12 @@
    },
 
 
+{
+      "id":51,
+      "difficulty":"medium",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"!GR#eat@69696969",
+
+},
+
 ]
