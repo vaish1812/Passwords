@@ -296,6 +296,13 @@
       "chractersUsed":"numbers",
       "Password":"12345678",
    },
+
+   {
+      "id" :25,
+      "difficulty":"medium",
+      "chractersUsed":"characters",
+      "Password":"qwertyuiop",
+
 {      
       "id": 16,
       "difficulty":"medium",
@@ -353,6 +360,7 @@
       "difficulty":"very easy",
       "chractersUsed":"numbers+characters",
       "Password":"Ankit@69",
+
    }
    
 
