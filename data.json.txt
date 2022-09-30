@@ -226,6 +226,13 @@
 
       "Password":"pja@9846%123",
    },
+
+   {      
+"id": 21,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"rahul6razi143nishad15",
+
    {
       "id": 20,
       "difficulty":"medium",
@@ -578,6 +585,7 @@
       "chractersUsed":"aplhanumeric",
       "Password":"dihdgubihenwmpsdjbajgvhsan,lasf;lmlnjncnoseufieouvowewuopwrromrlnkdkshfkejnfleurngfjhbfuestrbytvuesi30rpbw3pr03rq30",
      
+
    }
    ,
    {
