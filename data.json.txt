@@ -265,10 +265,23 @@
       "chractersUsed":"numbers+characters",
       "Password":"surname_123",
 }
+
+   {
+      "id":30,
+      "difficulty":"medium",
+      "chractersUsed":"special char , num,Uppercase & Lowercase",
+      "Password":"$!DDH!@9910044576876854",
+   },
+
+
 {
       "id":44,
       "difficulty":"hard",
       "chractersUsed":"numbers+characters+special characters",
       "Password":"koko@surname_12%3",
 },
+
 ]
+
+
+
