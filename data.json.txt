@@ -196,10 +196,13 @@
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"%flopkat.44",
-   }
-
-      "Password":"prashi@123"
-      },
+   },
+{      
+     "id": 24,
+      "difficulty":"difficult",
+      "chractersUsed":"numbers,characters",
+      "Password":"S@pat2098##SP",
+   },
       {
       "id":"23",
       "difficulty":"easy",
@@ -220,7 +223,6 @@
    },
    {
       "id":25,
-
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"12345678",
@@ -308,6 +310,7 @@
  "difficulty": "medium to  difficult level",
  "charactersUsed": "alphabets,numbers,special characters",
  "Passsword": "ShravaniUmare@2003"
+ }
       "id":32,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -390,6 +393,5 @@
       "Password":"112345",
 
 },
-
 
 ]
