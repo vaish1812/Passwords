@@ -501,7 +501,12 @@
 
 
 
+},
+{
+
+
 },{
+
     "id":55,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -563,6 +568,37 @@
       "Password":"1234567890",
 
       "difficulty":"medium",
+
+      "chractersUsed":["alphabets","numbers"],
+      "Password":"OmArStK45123",
+}
+   {
+      "id":54,
+      "difficulty":"very easy",
+      "chractersUsed":"lowercase",
+      "Password":"qwerty",
+   },
+
+
+{
+      "id":60,
+      "difficulty":"Hard",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"Kala#1234567",
+},
+
+{
+      "id":61,
+      "difficulty":"Hard",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"Sayaji&*12345",
+},
+{
+      "id":62,
+      "difficulty":"Hard",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"Saurav#1234",
+
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Messi10@7",
 
