@@ -431,6 +431,13 @@
       "Password":"112345",
 
 },
+{
+      "id":53,
+      "difficulty":"Difficult",
+      "chractersUsed":alphanumeric,
+      "Password":"{first 3 uppercase alphabets of your name} + {next lowercase alphabets of your name} + some character + your birth date",
+
+},
 
  {
       "id":52,
