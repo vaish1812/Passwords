@@ -293,11 +293,21 @@
 {
       "id":32,
       "difficulty":"Difficult to crack",
-      "chractersUsed":["alphabets","numbers","special characters"]
-      "Password":"MohitKhairnar@%9812",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"MohitKhairnar@%9812"
 
 },
 {
+      "id":29,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"surname_123"
+},
+{
+ "id":33,
+ "difficulty": "medium to  difficult level",
+ "charactersUsed": "alphabets,numbers,special characters",
+ "Passsword": "ShravaniUmare@2003"
       "id":32,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -309,24 +319,18 @@
       "chractersUsed":"numbers+characters",
       "Password":"gdsc@321!",
 },
-
-},
 {
       "id":30,
       "difficulty":"hard",
       "chractersUsed":["alphabets","numbers","special characters"]
       "Password":" dmz342#@cmz",
 }
-
    {
       "id":30,
       "difficulty":"medium",
       "chractersUsed":"special char , num,Uppercase & Lowercase",
       "Password":"$!DDH!@9910044576876854",
    },
-
-
-
 {
       "id":44,
       "difficulty":"hard",
@@ -335,13 +339,11 @@
 },
 {
       "id":45,
-
       "difficulty":"hard",
       "chractersUsed":["alphabets", "numbers","special_characters"]
       "Password":"u90e8n290n90qw-enf238-1",
 },
-
-
+      "id":45,
       "difficulty":"hard",
       "chractersUsed":"numbers+characters+special characters",
       "Password":"Boo_l69",
@@ -352,19 +354,18 @@
       "chractersUsed":"numbers+characters+special characters",
       "Password":"kjo3ei0238ec0980-912dn82e",
 },
-
-
+      "id":45,
       "difficulty":"easy",
       "chractersUsed":"numbers+characters+special characters",
       "Password":"megs@surname_123",
 },
 {
       "id":46,
-
       "difficulty":"easy",
       "chractersUsed":"numbers+characters+special characters",
       "Password":"Hello@world_123",
-
+{
+       "id":45,
       "difficulty":"medium",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Password@123",
