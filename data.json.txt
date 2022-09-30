@@ -609,13 +609,44 @@
 {
   "id":64,
   "difficulty":"easy",
-  "chractersUsed":["alphabets","numbers","special characters"],
-},
+
+  "chractersUsed":["alphabets"],
+  "Password":"qwerty",
+}
 {
-      "id":65,
+  "id":65,
+  "difficulty":"Hard",
+  "chractersUsed":["alphabets","numbers","special characters"],
+  "Password":"Something@99",
+}
+,
+{
+  "id":66,
+  "difficulty":"easy",
+  "chractersUsed":["alphabets"],
+  "Password":"root",
+}
+,
+{
+  "id":67,
+  "difficulty":"easy",
+  "chractersUsed":["alphabets"],
+  "Password":"home",
+}
+,
+{
+  "id":68,
+  "difficulty":"medium",
+  "chractersUsed":["alphabets","numbers"],
+  "Password":"Messi30",
+},
+
+{
+      "id":69,
       "difficulty":"very easy",
       "chractersUsed":"alphabets",
       "Password":"asdfghjkl",
    },
+
 
 ]
