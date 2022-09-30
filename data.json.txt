@@ -23,6 +23,9 @@
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"@RaHul123",
 
+
+   },
+
    },{
       "id":5,
       "difficulty":"very easy",
@@ -138,6 +141,22 @@
 "id":"22",
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
+      "Password":"pja@9846%123",
+   },
+ {
+      "id":15,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"gau123",
+   },
+
+    {
+      "id": 19,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"%flopkat.44",
+   }
+
       "Password":"prashi@123"
       },
       {
@@ -164,14 +183,36 @@
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"696969696",
+},
+{
+
+      "id":28,
+      "difficulty":"Hard",
+      "chractersUsed":"numbers",
+      "Password":"9135786428",
+},
+
+      "id":27,
+      "difficulty":"hard",
+      "chractersUsed":"numbers",
+      "Password":"9920826082",
+
 
 },
 
 {
-      "id":27,
+      "id":28,
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"67656569",
+
+},
+{
+      "id":29,
+      "difficulty":"hard",
+      "chractersUsed":["alphabets","numbers","special characters"]
+      "Password":"us4$223Kdd",
+
 }
 ,
 {
@@ -181,3 +222,6 @@
       "Password":"surname_123",
 }
 ]
+
+]
+
