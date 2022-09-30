@@ -196,13 +196,10 @@
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"%flopkat.44",
-   },
-{      
-     "id": 24,
-      "difficulty":"difficult",
-      "chractersUsed":"numbers,characters",
-      "Password":"S@pat2098##SP",
-   },
+   }
+
+      "Password":"prashi@123"
+      },
       {
       "id":"23",
       "difficulty":"easy",
@@ -223,10 +220,18 @@
    },
    {
       "id":25,
+
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"12345678",
 },
+   {
+      "id":17,
+
+      "difficulty":"hard",
+      "chractersUsed":"numbers",
+      "Password":"12345678",
+}
 {
 
       "id":17,
@@ -310,7 +315,6 @@
  "difficulty": "medium to  difficult level",
  "charactersUsed": "alphabets,numbers,special characters",
  "Passsword": "ShravaniUmare@2003"
- }
       "id":32,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -351,15 +355,15 @@
 
       "id":52,
       "difficulty":"hard",
-      "chractersUsed":"numbers+characters+special characters",
-      "Password":"Boo_l69",
-},
-{
-      "id":46,
+      "chractersUsed":"all alphabet and number keys on keyboard",
+      "Password":"qwertyuioplkjhgfdsazxcvbnm123456789",
+}
+
+
       "difficulty":"hard",
       "chractersUsed":"numbers+characters+special characters",
-      "Password":"kjo3ei0238ec0980-912dn82e",
-},
+      "Password":"Boo_l69",
+}
 
 {
 
@@ -392,13 +396,15 @@
       "Password":"Boom@123",
 
 
-},{
+},
+{
     "id":55,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"Spaer@1829",
 
 },
+
 {
       "id":51,
       "difficulty":"medium",
@@ -413,5 +419,26 @@
       "Password":"VikasGouda4Alwasys",
 
 }
+
+      "difficulty":"difficult",
+      "chractersUsed":"1Uppercase,1Lowercase,SpecialChar&num",
+      "Password":"Ab#",
+   },
+   {
+      "id":53,
+      "difficulty":"difficult",
+      "chractersUsed":"2Uppercase+Lowercase+SpecialChar&num",
+      "Password":"AppMade@123",
+   },
+
+
+{
+      "id":51,
+      "difficulty":"medium",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"!GR#eat@69696969",
+
+},
+
 
 ]
