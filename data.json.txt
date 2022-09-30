@@ -1,0 +1,25 @@
+   {
+      "id":1,
+      "difficulty":"very easy",
+      "chractersUsed":"numbers",
+      "Password":"12345678",
+   },
+
+   {
+      "id":2,
+      "difficulty":"easy",
+      "chractersUsed":"num & lowercase",
+      "Password":"rahul123",
+   },
+   {
+      "id":3,
+      "difficulty":"medium",
+      "chractersUsed":"special char , num,Uppercase & Lowercase",
+      "Password":"RaHul123",
+   },
+   {
+      "id":4,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"@RaHul123",
+   },
