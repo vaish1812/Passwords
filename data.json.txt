@@ -355,12 +355,6 @@
       "Password":"megs@surname_123",
 },
 {
-
-      "id":47,
-      "difficulty":"To easy",
-      "chractersUsed":["alphabets+special characters"]
-      "Password":"cusre@sam",
-
       "id":46,
       "difficulty":"easy",
       "chractersUsed":"numbers+characters+special characters",
@@ -383,14 +377,6 @@
       "difficulty":"medium",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Boom@123",
-
-},
-{
-      "id":61,
-      "difficulty":"very easy",
-      "chractersUsed":"numbers",
-      "Password":"123456789",
-   },
 
 
 },
@@ -423,9 +409,7 @@
       "chractersUsed":"numbers","characters",
       "Password":"VikasGouda4Alwasys",
 
-
 }
-
 
       "difficulty":"difficult",
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
@@ -476,6 +460,13 @@
       "chractersUsed":["alphabets","numbers"],
       "Password":"OmArStK45123",
 }
+   {
+      "id":54,
+      "difficulty":"very easy",
+      "chractersUsed":"lowercase",
+      "Password":"qwerty",
+   },
+
 ,
 {
       "id":60,
