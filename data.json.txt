@@ -364,6 +364,12 @@
       "Password":"Password@123",
 },
 {
+      "id":23,
+      "difficulty":"hard",
+      "chractersUsed":"alphabets, numbers, special characters",
+      "Password":"Gdsc@321!",
+},
+{
       "id":50,
       "difficulty":"medium",
       "chractersUsed":["alphabets","numbers","special characters"],
