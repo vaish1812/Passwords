@@ -97,7 +97,6 @@
    },
      
    {
-      "id":14,
       "id":16,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -118,7 +117,6 @@
 },
    {
       "id":19,
-
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000",
@@ -149,6 +147,13 @@
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
    },
+   {
+       "id":15,
+      "difficulty":"difficult",
+      "chractersUsed":"numbers+characters",
+      "Password":"tr%$ak980l54$",
+      },
+   
  {
       "id":15,
       "difficulty":"medium",
@@ -177,6 +182,12 @@
       "chractersUsed":"numbers",
       "Password":"12345678",
    },
+{      
+"id": 16,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"ga@1234",
+   },
    {
       "id":25,
 
@@ -189,15 +200,9 @@
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"696969696",
+
 },
 {
-
-      "id":28,
-      "difficulty":"Hard",
-      "chractersUsed":"numbers",
-      "Password":"9135786428",
-},
-
       "id":27,
       "difficulty":"hard",
       "chractersUsed":"numbers",
@@ -212,8 +217,28 @@
       "chractersUsed":"numbers",
       "Password":"67656569",
 
+
 },
 {
+      "id":29,
+      "difficulty":"difficult",
+      "chractersUsed":"numbers+characters",
+      "Password":"Pritam@0204",
+
+},
+{
+      "id":30,
+      "difficulty":"difficult",
+      "chractersUsed":"numbers+characters",
+      "Password":"Loki@4343",
+
+
+
+},
+{
+      "id":31,
+      "difficulty":"hard",
+
       "id":30,
       "difficulty":"Little bit hard",
       "chractersUsed":["alphabets","numbers"]
@@ -235,11 +260,12 @@
 
 },
 {
-      "id":28,
+      "id":32,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"surname_123",
 }
+
    {
       "id":30,
       "difficulty":"medium",
@@ -247,6 +273,13 @@
       "Password":"$!DDH!@9910044576876854",
    },
 
+
+{
+      "id":44,
+      "difficulty":"hard",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"koko@surname_12%3",
+},
 
 ]
 
