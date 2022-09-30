@@ -194,6 +194,12 @@
       "chractersUsed":["alphabets","numbers","special characters"]
       "Password":"us4$223Kdd",
 
+},
+{
+      "id":30,
+      "difficulty":"hard",
+      "chractersUsed":["alphabets","numbers","special characters"]
+      "Password":" dmz342#@cmz",
 }
 
 ]
