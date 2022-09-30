@@ -407,7 +407,7 @@
 
 },
  {
-      "id"524,
+      "id":52,
       "difficulty":"difficult",
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"@WCEit22",
