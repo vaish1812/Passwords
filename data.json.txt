@@ -681,7 +681,24 @@
       "chractersUsed":"alphabets",
       "Password":"asdfghjkl",
    },
-
+{
+      "id": 72,
+      "difficulty": "very easy",
+      "charactersUsed":["alphabets","numbers"],
+      "Password":"mypass123",
+},
+{
+      "id": 73,
+      "difficulty": "very easy",
+      "charactersUsed":["alphabets"],
+      "Password":"wrongpassword",
+},
+{
+      "id": 73,
+      "difficulty": "very easy",
+      "charactersUsed":["alphabets"],
+      "Password":"youcantseeme",
+}
 
 
 
