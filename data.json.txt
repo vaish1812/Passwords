@@ -466,7 +466,16 @@
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"!GR#eat@69696969",
 
+}
+   
+{
+      "id":52,
+      "difficulty":"Difficult",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"Do.You.Know@Dont_Know_then!Get_lost",
+
 },
+
 {
       "id":52,
       "difficulty":"medium",
@@ -480,4 +489,5 @@
       "chractersUsed":["alphabets","numbers"],
       "Password":"OmArStK45123",
 }
+
 ]
