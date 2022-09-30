@@ -23,15 +23,7 @@
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"@RaHul123",
 
-   },{
-      "id":1,
-      "difficulty":"very easy",
-      "chractersUsed":"numbers",
-      "Password":"12345678",
    },
-   
-
-   
    {
       "id":5,
       "difficulty":"difficult",
@@ -126,6 +118,12 @@
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
+   },
+    {
+      "id": 19,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"%flopkat.44",
    }
 
 ]
