@@ -690,6 +690,13 @@
 
 
    }
+   {
+      "id":19,
+      "difficulty":"very easy",
+      "chractersUsed":"numbers",
+      "Password":"12345678",
+   },
+
    ,
    {
       "id":54,
@@ -808,6 +815,7 @@
    },
 
 
+
    {
       "id":72,
       "difficulty":"very hard",
@@ -875,5 +883,6 @@
   "chractersUsed":["alphabets","numbers"],
   "Password":"Hello123",
 }
+
 
 ]
