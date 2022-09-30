@@ -24,7 +24,11 @@
       "Password":"@RaHul123",
 
 
+   },{
+=======
+
    },
+
 
       "id":5,
 
@@ -196,6 +200,10 @@
 
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
+
+      "Password":"prashi@123"
+      },
+
       "Password":"pja@9846%123",
    },
 
@@ -275,6 +283,7 @@
       "chractersUsed":"numbers,characters",
       "Password":"S@pat2098##SP",
    },
+
       {
       "id":"23",
       "difficulty":"easy",
@@ -647,6 +656,15 @@
 {
       "id":47,
 
+
+},
+{
+      "id":30,
+      "difficulty":"hard",
+      "chractersUsed":"numbers+characters",
+      "Password":"NoF0909",
+
+}
       "difficulty":"easy",
       "chractersUsed":"numbers+characters+special characters",
       "Password":"1234567890",
