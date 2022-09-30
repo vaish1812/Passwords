@@ -761,6 +761,13 @@
    },
   
 
+
+   {
+      "id":72,
+      "difficulty":"very hard",
+      "chractersUsed":"alphabets",
+      "Password":"qazwsxedcrfvtgbyhnujmiklop",
+   },
 {
   "id":72,
   "difficulty":"Hard",
@@ -774,6 +781,7 @@
   "chractersUsed":["alphabets","numbers"],
   "Password":"22name4",
 },
+
 
 {
   "id":74,
