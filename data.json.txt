@@ -405,6 +405,14 @@
       "chractersUsed":numbers,
       "Password":"112345",
 
-}
+},
+ {
+      "id"524,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"@WCEit22",
+
+
+   }
 
 ]
