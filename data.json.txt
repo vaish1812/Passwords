@@ -417,6 +417,12 @@
 },
 {
       "id":52,
+      "difficulty":"Hard",
+      "chractersUsed":"numbers","characters",
+      "Password":"VikasGouda4Alwasys",
+
+}
+
       "difficulty":"difficult",
       "chractersUsed":"1Uppercase,1Lowercase,SpecialChar&num",
       "Password":"Ab#",
