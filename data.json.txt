@@ -339,6 +339,16 @@
 
 
 },
+{      
+"id": 34,
+      "difficulty":"very easy",
+      "chractersUsed":"numbers+characters",
+      "Password":"Ankit@69",
+   }
+   
+
+
+},
 {
       "id":30,
       "difficulty":"hard",
@@ -451,7 +461,6 @@
 ]
 
 }
-
 
       "id":29,
       "difficulty":"medium",
