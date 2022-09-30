@@ -280,6 +280,12 @@
       "chractersUsed":"numbers+characters+special characters",
       "Password":"koko@surname_12%3",
 },
+{
+      "id":45,
+      "difficulty":"hard",
+      "chractersUsed":"all alphabet and number keys on keyboard",
+      "Password":"qwertyuioplkjhgfdsazxcvbnm123456789",
+}
 
 ]
 
