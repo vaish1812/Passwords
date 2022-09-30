@@ -200,6 +200,13 @@
    },
 
    {      
+"id": 22,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"RaziRahulYashKCNishuAshuAnmol123",
+
+
+   {      
       "id": 19,
       "difficulty":"easy",
       "chractersUsed":"characters",
@@ -585,6 +592,7 @@
       "chractersUsed":"aplhanumeric",
       "Password":"dihdgubihenwmpsdjbajgvhsan,lasf;lmlnjncnoseufieouvowewuopwrromrlnkdkshfkejnfleurngfjhbfuestrbytvuesi30rpbw3pr03rq30",
      
+
 
    }
    ,
