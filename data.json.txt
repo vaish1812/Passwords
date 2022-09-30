@@ -208,10 +208,24 @@
 
 },
 {
-      "id":29,
-      "difficulty":"hard",
+      "id":30,
+      "difficulty":"Little bit hard",
+      "chractersUsed":["alphabets","numbers"]
+      "Password":"mohit1235",
+
+},
+{
+      "id":31,
+      "difficulty":"To easy",
+      "chractersUsed":["alphabets"]
+      "Password":"mohitKhairnar",
+
+},
+{
+      "id":32,
+      "difficulty":"Difficult to crack",
       "chractersUsed":["alphabets","numbers","special characters"]
-      "Password":"us4$223Kdd",
+      "Password":"MohitKhairnar@%9812",
 
 }
 ]
