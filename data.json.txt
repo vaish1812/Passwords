@@ -259,9 +259,15 @@
 },
 {
       "id":45,
+
       "difficulty":"hard",
       "chractersUsed":"numbers+characters+special characters",
       "Password":"Boo_l69",
 }
+
+      "difficulty":"easy",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"megs@surname_123",
+
 
 ]
