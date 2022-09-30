@@ -381,15 +381,6 @@
 
 },
 {
-      "id":51,
-      "difficulty":"Medium",
-      "chractersUsed":"characters",
-      "Password":"qwerasdfzxcv",
-   }
-
-
-},
-{
     "id":55,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -488,19 +479,25 @@
       "Password":"qwerty",
    },
 
-,
+
 {
       "id":60,
       "difficulty":"Hard",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Kala#1234567",
-}
+},
 
 {
       "id":61,
       "difficulty":"Hard",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Sayaji&*12345",
+},
+{
+      "id":62,
+      "difficulty":"Hard",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"Saurav#1234",
 }
 
 ]
