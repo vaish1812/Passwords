@@ -626,5 +626,12 @@
   "chractersUsed":["alphabets","numbers","special characters"],
   "Password":"Kala#1234567"
 }
+,
+{
+  "id":61,
+  "difficulty":"easy",
+  "chractersUsed":["alphabets"],
+  "Password":"qwerty"
+}
 
 }]
