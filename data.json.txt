@@ -40,6 +40,9 @@
       "Password":"12345678",
    },
 
+   
+
+
    {
       "id":6,
       "difficulty":"hard",
@@ -216,6 +219,10 @@
       "Password":"pja@9846%123",
    },
 
+   {
+      "id":19,
+
+
    {      
 "id": 57,
       "difficulty":"medium",
@@ -343,6 +350,13 @@
       "chractersUsed":"numbers",
       "Password":"12345678",
    },
+
+   {
+      "id":20,
+      "difficulty":"Too difficult",
+      "chractersUsed":"Uppercase, Lowercase, symbols, numbers",
+      "Password":"WalchandSangli@123",
+
 
    {
       "id" :25,
@@ -694,11 +708,6 @@
       "difficulty":"very very hard",
       "chractersUsed":"aplhanumeric",
       "Password":"dihdgubihenwmpsdjbajgvhsan,lasf;lmlnjncnoseufieouvowewuopwrromrlnkdkshfkejnfleurngfjhbfuestrbytvuesi30rpbw3pr03rq30",
-     
-
-
-
-
 
    }
    {
