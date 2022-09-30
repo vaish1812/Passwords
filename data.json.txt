@@ -199,6 +199,13 @@
       "Password":"pja@9846%123",
    },
 
+   
+   {
+      "id":19,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"vjdvjdv&$#@!&",
+
    {      
       "id": 19,
       "difficulty":"medium",
