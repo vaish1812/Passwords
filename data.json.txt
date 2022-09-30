@@ -753,13 +753,6 @@
       "chractersUsed":"alphabets",
       "Password":"asdfghjkl",
    },
-   {
-      "id":72,
-      "difficulty":"medium",
-      "chractersUsed":"alphabets & numbers",
-      "Password":"abcd12345",
-   },
-  
 
 
    {
@@ -769,11 +762,12 @@
       "Password":"qazwsxedcrfvtgbyhnujmiklop",
    },
 {
-  "id":72,
-  "difficulty":"Hard",
-  "chractersUsed":["alphabets","numbers","special characters"],
-  "Password":"Dob@334",
+      "id": 72,
+      "difficulty": "very easy",
+      "charactersUsed":["alphabets","numbers"],
+      "Password":"mypass123",
 },
+
 
 {
   "id":73,
@@ -788,6 +782,34 @@
   "difficulty":"easy",
   "chractersUsed":["alphabets"],
   "Password":"abcde",
+},
+{
+      "id": 75,
+      "difficulty": "very easy",
+      "charactersUsed":["alphabets"],
+      "Password":"wrongpassword",
+},
+{
+      "id": 76,
+      "difficulty": "very easy",
+      "charactersUsed":["alphabets"],
+      "Password":"youcantseeme",
 }
+,
+   {
+      "id":77,
+      "difficulty":"medium",
+      "chractersUsed":"alphabets & numbers",
+      "Password":"abcd12345",
+   },
+  
+
+{
+  "id":78,
+  "difficulty":"Hard",
+  "chractersUsed":["alphabets","numbers","special characters"],
+  "Password":"Dob@334",
+},
+
 
 ]
