@@ -352,6 +352,11 @@
    },
 
    {
+
+      "id":21,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"zxy321@@@",=======
       "id":20,
       "difficulty":"Too difficult",
       "chractersUsed":"Uppercase, Lowercase, symbols, numbers",
@@ -363,6 +368,7 @@
       "difficulty":"medium",
       "chractersUsed":"characters",
       "Password":"qwertyuiop",
+
 
 {      
       "id": 16,
@@ -708,6 +714,7 @@
       "difficulty":"very very hard",
       "chractersUsed":"aplhanumeric",
       "Password":"dihdgubihenwmpsdjbajgvhsan,lasf;lmlnjncnoseufieouvowewuopwrromrlnkdkshfkejnfleurngfjhbfuestrbytvuesi30rpbw3pr03rq30",
+
 
    }
    {
