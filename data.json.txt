@@ -173,4 +173,11 @@
       "chractersUsed":"numbers",
       "Password":"67656569",
 }
+,
+{
+      "id":28,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"surname_123",
+}
 ]
