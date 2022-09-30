@@ -610,7 +610,6 @@
   "id":64,
   "difficulty":"easy",
   "chractersUsed":["alphabets","numbers","special characters"],
-  "Password":"One@NOrd69"
 }
 
 ]
