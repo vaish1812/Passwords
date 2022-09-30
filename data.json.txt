@@ -79,11 +79,18 @@
       "difficulty":"Medium",
       "chractersUsed":"2Uppercase,10Lowercase",
       "Password":"abcdefghijKL",
-   }
+   },
    {
       "id":13,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"name_123",
    },
+   ,
+   {
+      "id":14,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"surname_123",
+   }
 ]
