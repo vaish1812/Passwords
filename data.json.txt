@@ -136,5 +136,11 @@
       "difficulty":"very easy",
       "chractersUsed":"numbers",
       "Password":"12345678",
+   },
+   {
+      "id":21,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"zxy321@@@",
    }
 ]
