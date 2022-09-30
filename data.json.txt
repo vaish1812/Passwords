@@ -399,13 +399,15 @@
       "Password":"Boom@123",
 
 
-},{
+},
+{
     "id":55,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"Spaer@1829",
 
 },
+
 {
       "id":51,
       "difficulty":"medium",
@@ -415,10 +417,15 @@
 },
 {
       "id":52,
-      "difficulty":"very very hard",
-      "chractersUsed":"aplhanumeric",
-      "Password":"diqwipei0er89bv39733bd9837vyw33bwrq9pe739b3vovwreoocnoseufieouvowewuopwrromrlnkdkshfkejnfleurngfjhbfuestrbytvuesi30rpbw3pr03rq30",
-     
+      "difficulty":"difficult",
+      "chractersUsed":"1Uppercase,1Lowercase,SpecialChar&num",
+      "Password":"Ab#",
+   },
+   {
+      "id":53,
+      "difficulty":"difficult",
+      "chractersUsed":"2Uppercase+Lowercase+SpecialChar&num",
+      "Password":"AppMade@123",
    },
 
 
