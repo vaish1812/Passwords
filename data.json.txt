@@ -385,6 +385,13 @@
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Boom@123",
 
+
+},{
+    "id":50,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"Spaer@1829",
+
 },
 {
       "id":51,
