@@ -817,6 +817,11 @@
   "chractersUsed":["alphabets","numbers","special characters"],
   "Password":"Dob@334",
 },
-
+{
+  "id":79,
+  "difficulty":"Hard",
+  "chractersUsed":["alphabets","numbers","special characters"],
+  "Password":"mongo%@334",
+},
 
 ]
