@@ -119,4 +119,10 @@
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
    }
+     {
+      "id":25,
+      "difficulty":"moderate",
+      "chractersUsed":"characters,numbers",
+      "Password":"bunny@987",
+   },
 ]
