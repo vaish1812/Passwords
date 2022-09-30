@@ -123,6 +123,12 @@
       "difficulty":"Hard",
       "chractersUsed":"num , upper & lower case & special char",
       "Password":"ItsNoneofyourbu!!sneSS",
+   },
+    {
+      "id":20,
+      "difficulty":"easy",
+      "chractersUsed":"num , upper & lower case & special char",
+      "Password":"INCORRECt123%",
    }
 
 ]
