@@ -232,6 +232,12 @@
 
 },
 {
+
+      "id":26,
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"696969696",
+
   "id":17,
 
   "difficulty":"hard",
@@ -251,10 +257,6 @@
   "difficulty":"easy",
   "chractersUsed":"numbers",
   "Password":"696969696"
-},
-{
-
-
 },
 {
   "id":27,
@@ -424,13 +426,19 @@
   "Password":"123456789"
 },
 
+{
+      "id":50,
+
+      "difficulty":"hard",
+      "chractersUsed":"numbers+characters+special characters",
+      "Password":"00FU@",
+},
 
 {
 "id":55,
   "difficulty":"medium",
   "chractersUsed":"numbers+characters",
   "Password":"Spaer@1829"
-
 },
 
 {
