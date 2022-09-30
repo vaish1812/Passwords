@@ -310,6 +310,12 @@
       "Password":"gdsc@321!",
 },
 
+},
+{
+      "id":30,
+      "difficulty":"hard",
+      "chractersUsed":["alphabets","numbers","special characters"]
+      "Password":" dmz342#@cmz",
 }
 
    {
