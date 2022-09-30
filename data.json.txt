@@ -269,6 +269,16 @@
    {
 
       "id":19,
+      "difficulty":"Hard",
+      "chractersUsed":"num , upper & lower case & special char",
+      "Password":"ItsNoneofyourbu!!sneSS",
+   },
+    {
+      "id":20,
+      "difficulty":"easy",
+      "chractersUsed":"num , upper & lower case & special char",
+      "Password":"INCORRECt123%",
+
       "difficulty":"medium",
       "chractersUsed":" lowercase",
       "Password":"hellohowru",
@@ -685,6 +695,7 @@
       "chractersUsed":"aplhanumeric",
       "Password":"dihdgubihenwmpsdjbajgvhsan,lasf;lmlnjncnoseufieouvowewuopwrromrlnkdkshfkejnfleurngfjhbfuestrbytvuesi30rpbw3pr03rq30",
      
+
 
 
 
