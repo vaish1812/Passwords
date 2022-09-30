@@ -392,6 +392,12 @@
       "Password":"megs@surname_123",
 },
 {
+
+      "id":47,
+      "difficulty":"To easy",
+      "chractersUsed":["alphabets+special characters"]
+      "Password":"cusre@sam",
+
       "id":46,
       "difficulty":"easy",
       "chractersUsed":"numbers+characters+special characters",
@@ -444,6 +450,7 @@
       "difficulty":"Hard",
       "chractersUsed":"numbers","characters",
       "Password":"VikasGouda4Alwasys",
+
 
 }
 
