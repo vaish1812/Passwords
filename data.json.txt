@@ -355,15 +355,15 @@
 
       "id":52,
       "difficulty":"hard",
-      "chractersUsed":"numbers+characters+special characters",
-      "Password":"Boo_l69",
-},
-{
-      "id":46,
+      "chractersUsed":"all alphabet and number keys on keyboard",
+      "Password":"qwertyuioplkjhgfdsazxcvbnm123456789",
+}
+
+
       "difficulty":"hard",
       "chractersUsed":"numbers+characters+special characters",
-      "Password":"kjo3ei0238ec0980-912dn82e",
-},
+      "Password":"Boo_l69",
+}
 
 {
 
