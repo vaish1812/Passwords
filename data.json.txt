@@ -79,25 +79,33 @@
       "difficulty":"Medium",
       "chractersUsed":"2Uppercase,10Lowercase",
       "Password":"abcdefghijKL",
-   }
+   },
    {
       "id":13,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"name_123",
    },
-   {
+
+    {
       "id":14,
+      "difficulty":"easy",
+      "chractersUsed":"numbers+characters",
+      "Password":"pass@123",
+},
+   {
+      "id":15,
 
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000",
 },
 {      
-"id": 15,
+"id": 16,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
 
-   },
+
+   }
 ]
