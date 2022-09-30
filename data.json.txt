@@ -228,4 +228,10 @@
       "Password":"MohitKhairnar@%9812",
 
 }
+{
+      "id":28,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"surname_123",
+}
 ]
