@@ -143,6 +143,13 @@
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
    },
+ {
+      "id":15,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"gau123",
+   },
+
     {
       "id": 19,
       "difficulty":"medium",
