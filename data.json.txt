@@ -224,14 +224,20 @@
 {
       "id":32,
       "difficulty":"Difficult to crack",
-      "chractersUsed":["alphabets","numbers","special characters"]
-      "Password":"MohitKhairnar@%9812",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"MohitKhairnar@%9812"
 
 }
 {
-      "id":28,
+      "id":29,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
-      "Password":"surname_123",
+      "Password":"surname_123"
+},
+{
+ "id":33,
+ "difficulty": "medium to  difficult level",
+ "chractersUsed": "alphabets,numbers,special characters",
+ "Passsword": "ShravaniUmare@2003"
 }
 ]
