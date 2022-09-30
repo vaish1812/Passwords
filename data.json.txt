@@ -26,7 +26,8 @@
 
    },
 
-   },{
+   },
+   {
       "id":5,
       "difficulty":"very easy",
       "chractersUsed":"numbers",
@@ -532,5 +533,11 @@
       "difficulty":"easy",
       "charactersUsed":["alphabets"],
       "Password":"qwerty",
+},
+{
+      "id":62,
+      "difficulty":"easy",
+      "charactersUsed":["alphabets,symbols"],
+      "Password":"warrior",
 }
 ]
