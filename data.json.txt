@@ -79,7 +79,7 @@
       "difficulty":"Medium",
       "chractersUsed":"2Uppercase,10Lowercase",
       "Password":"abcdefghijKL",
-   }
+   },
    {
       "id":13,
       "difficulty":"medium",
@@ -87,22 +87,45 @@
       "Password":"name_123",
    },
 
+
     {
       "id":14,
       "difficulty":"Medium",
       "chractersUsed":"characters+numbers",
       "Password":"Pratham_3105",
-   {
+  
+    },
+    {
       "id":15,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters+special_characters",
+      "Password":"code@_123",
+     },
 
+    {
+      "id":16,
+      "difficulty":"easy",
+      "chractersUsed":"numbers+characters",
+      "Password":"pass@123",
+    },
+   
+   {
+      "id":17,
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000",
-},
-{      
-"id": 16,
+   },
+   {      
+      "id": 16,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
    },
+   {
+      "id": 18,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"pja@9846%123",
+   }
+
 ]
