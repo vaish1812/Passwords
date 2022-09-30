@@ -156,4 +156,10 @@
       "chractersUsed":"numbers",
       "Password":"696969696",
 },
+{
+      "id":23,
+      "difficulty":"hard",
+      "chractersUsed":"alphabets, numbers, special characters",
+      "Password":"Gdsc@321!",
+},
 ]
