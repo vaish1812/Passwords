@@ -44,4 +44,10 @@
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"TheHacer@#1234JustAHacker",
    },
+   {
+      "id":7,
+      "difficulty":"difficult",
+      "chractersUsed":"2Uppercase,2Lowercase,SpecialChar&num",
+      "Password":"GDsc#15",
+   }
 ]
