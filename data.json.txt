@@ -97,7 +97,6 @@
    },
      
    {
-      "id":14,
       "id":16,
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
@@ -118,7 +117,6 @@
 },
    {
       "id":19,
-
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000",
@@ -183,6 +181,12 @@
       "difficulty":"very easy",
       "chractersUsed":"numbers",
       "Password":"12345678",
+   },
+{      
+"id": 16,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"ga@1234",
    },
    {
       "id":25,
