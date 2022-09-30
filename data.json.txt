@@ -118,5 +118,11 @@
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
-   }
+   },
+   {
+   "id": 19,
+      "difficulty":"hard",
+      "chractersUsed":"Uppercase+lowercase+special_character+number"
+      "Password":"Gita@!8703",
+   
 ]
