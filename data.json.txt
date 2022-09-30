@@ -174,12 +174,30 @@
   "Password":"0000"
 },
 {      
+
+"id": 21,
+      "difficulty":"easy",
+      "chractersUsed":"numbers",
+      "Password":"88888888",
+   },
+   
+
+   {      
+   "id":"22",
+
 "id": 19,
 
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
    },
+
+   {      
+      "id": 19,
+      "difficulty":"easy",
+      "chractersUsed":"characters",
+      "Password":"admin",
+}.
    
   {      
 "id": 19,
@@ -521,9 +539,6 @@
       "difficulty":"medium",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"Boom@123",
-
-
-
 },
 {
 
@@ -589,11 +604,8 @@
       "difficulty":"easy",
       "chractersUsed":"numbers+characters+special characters",
       "Password":"1234567890",
-
       "difficulty":"medium",
-
-      "chractersUsed":["alphabets","numbers"],
-      "Password":"OmArStK45123",
+     
 }
    {
       "id":54,
