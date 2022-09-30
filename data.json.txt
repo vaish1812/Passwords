@@ -909,7 +909,14 @@
   "difficulty":"Easy",
   "chractersUsed":["alphabets","numbers"],
   "Password":"Hello123",
-}
+},
+   {
+      "id":81,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"GDSC@wce$123",
+   }
+
 
 
 ]
