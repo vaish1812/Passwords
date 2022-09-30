@@ -1,4 +1,5 @@
-   [{
+   [
+   {
       "id":1,
       "difficulty":"very easy",
       "chractersUsed":"numbers",
@@ -25,22 +26,27 @@
 
 
    },
+   {
+      "id":1,
+
+
+   },
 
       "id":5,
+
 
       "difficulty":"very easy",
       "chractersUsed":"numbers",
       "Password":"12345678",
    },
+
    {
       "id":6,
       "difficulty":"hard",
       "chractersUsed":"characters",
       "Password":"qwertyuiopasdfghjklzxcvbnmnjhvshjfvyefyegfywgygegwefgsfgsfgesg",
    },
-   
 
-   
    {
       "id":7,
       "difficulty":"difficult",
@@ -136,7 +142,8 @@
       "difficulty":"easy",
       "chractersUsed":"numbers",
       "Password":"0000",
-},
+
+  },
 {      
 
 "id": 20,
@@ -179,6 +186,7 @@
       "chractersUsed":"numbers",
       "Password":"88888888",
    },
+
 
    {      
 "id":"22",
@@ -272,6 +280,12 @@
 
       "Password":"pja@9846%123",
    },
+
+   {      
+      "id": 19,
+      "difficulty":"hard",
+      "chractersUsed":"numbers+characters+special",
+      "Password":"myNameIsKhan@1234*",
 
    {      
 "id": 21,
@@ -383,6 +397,7 @@
       "difficulty":"very easy",
       "chractersUsed":"numbers+characters",
       "Password":"Ankit@69",
+
 
    }
    
