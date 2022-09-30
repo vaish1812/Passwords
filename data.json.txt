@@ -434,5 +434,15 @@
 
 },
 
+   
+{
+      "id":52,
+      "difficulty":"Difficult",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"Do.You.Know@Dont_Know_then!Get_lost",
+
+},
+
+
 
 ]
