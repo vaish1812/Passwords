@@ -766,5 +766,25 @@
       "Password":"asdfghjkl",
    },
 
+{
+  "id":72,
+  "difficulty":"Hard",
+  "chractersUsed":["alphabets","numbers","special characters"],
+  "Password":"Dob@334",
+},
+
+{
+  "id":73,
+  "difficulty":"Medium",
+  "chractersUsed":["alphabets","numbers"],
+  "Password":"22name4",
+},
+
+{
+  "id":74,
+  "difficulty":"easy",
+  "chractersUsed":["alphabets"],
+  "Password":"abcde",
+}
 
 ]
