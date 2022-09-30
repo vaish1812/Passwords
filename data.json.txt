@@ -12,6 +12,12 @@
       "chractersUsed":"num & lowercase",
       "Password":"rahul123"
    },
+      {
+      "id":2222,
+      "difficulty":"hard",
+      "chractersUsed":"college_name+mobile_num",
+      "Password":"wce8104868335"
+   },
    {
       "id":3,
       "difficulty":"medium",
