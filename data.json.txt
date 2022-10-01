@@ -970,7 +970,7 @@
 {
 "id":84,
 "difficulty":"Moderate",
-"charactersUsed":["alphabets","numbers"],
+"charactersUsed":["alphabets","numbers","characters"],
 "Password":"NAMEp@02!"
 },
 ]
