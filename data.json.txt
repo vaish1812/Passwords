@@ -975,8 +975,14 @@
 },
 {
 "id":278,
-"difficulty":"Eay",
+"difficulty":"Easy",
 "charactersUsed":["alphabets","numbers"],
 "Password":"Vai4589bhai"
+},
+{
+"id":279,
+"difficulty":"Hard",
+"charactersUsed":["alphabets","numbers","characters"],
+"Password":"WordI12345know!*&**"
 },
 ]
