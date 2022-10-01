@@ -949,5 +949,17 @@
 "difficulty":"Easy",
 "charactersUsed":["alphabets"],
 "Password":"simple password"
-}
+},
+{
+
+ "id":230,
+
+ "difficulty":"Difficult",
+
+ "chractersUsed":["alphabets","numbers","symbols"],
+
+ "Password":"Mothersname@0dob"
+
+},
+
 ]
