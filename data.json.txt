@@ -984,6 +984,12 @@
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"Pro@Max*90"
+  },
+  {
+  "id":282,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"KJ2sKeihAMga@h@"
   }
   ]
   
