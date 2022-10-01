@@ -984,6 +984,13 @@
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"Pro@Max*90"
+  },
+  {
+  "id":282,
+  "difficulty":"Medium",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"*!Wakanada@Forever!*"
   }
+
   ]
   
