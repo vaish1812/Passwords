@@ -917,3 +917,9 @@
 
 
 ],
+{
+ "id":81,
+ "difficulty":"Difficult",
+ "chractersUsed":["alphabets","numbers","symbols"],
+ "Password":"Student@123"
+},
