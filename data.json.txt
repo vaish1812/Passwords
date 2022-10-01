@@ -973,4 +973,10 @@
 "charactersUsed":["alphabets","numbers","characters"],
 "Password":"NAMEp@02!"
 },
+{
+"id":278,
+"difficulty":"Eay",
+"charactersUsed":["alphabets","numbers"],
+"Password":"Vai4589bhai"
+},
 ]
