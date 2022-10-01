@@ -961,5 +961,11 @@
  "Password":"Mothersname@0dob"
 
 },
+{
+"id":83,
+"difficulty":"Moderate",
+"charactersUsed":["alphabets","numbers"],
+"Password":"flying123"
+},
 
 ]
