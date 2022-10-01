@@ -12,19 +12,22 @@
      "chractersUsed":"num & lowercase",
      "Password":"rahul123"
   },
+  
   {
      "id":3,
      "difficulty":"medium",
      "chractersUsed":"special char , num,Uppercase & Lowercase",
      "Password":"RaHul123"
   },
+  
   {
      "id":4,
      "difficulty":"difficult",
      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
      "Password":"@RaHul123"
   },
-{
+  
+  {
      "id":5,
      "difficulty":"very easy",
      "chractersUsed":"numbers",
@@ -44,54 +47,63 @@
      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
      "Password":"Pacer@98!"
   },
+  
   {
      "id":8,
      "difficulty":"difficult",
      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
      "Password":"TheHacer@#1234JustAHacker"
   },
+  
   {
      "id":9,
      "difficulty":"difficult",
      "chractersUsed":"2Uppercase,2Lowercase,SpecialChar&num",
      "Password":"GDsc#15"
   },
-     {
+  
+  {
      "id":10,
      "difficulty":"difficult",
      "chractersUsed":"5Uppercase,2Lowercase,SpecialChar&num",
      "Password":"NEHALpr#15"
   },
+  
   {
      "id":11,
      "difficulty":"difficult",
      "chractersUsed":"1Uppercase,1Lowercase,SpecialChar&num",
      "Password":"Ab#"
   },
+  
   {
      "id":12,
      "difficulty":"Easy",
      "chractersUsed":"1Uppercase,7Lowercase",
      "Password":"Password"
   },
+  
   {
      "id":13,
      "difficulty":"Easy",
      "chractersUsed":"2Uppercase,2Lowercase",
      "Password":"GdSc"
   },
+  
   {
      "id":14,
      "difficulty":"Medium",
      "chractersUsed":"2Uppercase,10Lowercase",
      "Password":"abcdefghijKL"
   },
+  
   {
      "id":15,
      "difficulty":"medium",
      "chractersUsed":"numbers+characters",
      "Password":"name_123"
   },
+  
   {
      "id":20,
      "difficulty":"medium",
@@ -104,34 +116,38 @@
      "difficulty":"medium",
      "chractersUsed":"numbers+characters",
      "Password":"surname_123"
-},
-{
+  },
+  
+  {
        "id":48,
      "difficulty":"medium",
      "chractersUsed":"numbers+characters+special_characters",
      "Password":"code@_123"
-    },
+  },
 
-   {
+  {
      "id":18,
      "difficulty":"easy",
      "chractersUsed":"numbers+characters",
      "Password":"pass@123"
-},  
-{
+  },
+  
+  {
      "id":16,
      "difficulty":"easy",
      "chractersUsed":"numbers",
      "Password":"0000"
-},
-   {
+  },
+  
+  {
      "id":19,
      "difficulty":"easy",
      "chractersUsed":"numbers",
      "Password":"0000"
 
- },
-{      
+  },
+  
+  {      
 
 "id": 20,
      "difficulty":"medium",
@@ -144,7 +160,7 @@
      "difficulty":"medium",
      "chractersUsed":"characters+numbers",
      "Password":"lamborghini1963"
-     },
+  },
 
 {
   "id": 19,
@@ -887,10 +903,16 @@
       "Password":"GDSC@wce$123",
    },
 {
- "id":80,
+ "id":82,
  "difficulty":"Easy",
  "chractersUsed":["alphabets","numbers"],
  "Password":"Hello123"
+},
+{
+ "id":83,
+ "difficulty":"Difficult",
+ "chractersUsed":["5Uppercase,1Lowercase,2numbers,1specialcharacter"],
+ "Password":"RAHULr02@"
 }
 
 
