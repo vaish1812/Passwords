@@ -913,39 +913,42 @@
  "difficulty":"Difficult",
  "chractersUsed":["5Uppercase,1Lowercase,2numbers,1specialcharacter"],
  "Password":"RAHULr02@"
-}
+},
 {
  "id":84,
  "difficulty":"Easy",
  "chractersUsed":["alphabets","numbers"],
  "Password":"a1b2c3d4"
-}
+},
 {
  "id":85,
  "difficulty":"Easy",
  "chractersUsed":["alphabets","numbers"],
  "Password":"forgot password"
-}
+},
 {
  "id":86,
  "difficulty":"Hard",
  "chractersUsed":["alphabets,numbers,specialcharacter"],
  "Password":"$is4richminds"
-}
+},
 {
  "id":86,
  "difficulty":"Medium",
  "chractersUsed":["alphabets,specialcharacter"],
  "Password":"whatispassword? "
-}
-
-
-],
+},
 {
  "id":81,
  "difficulty":"Difficult",
  "chractersUsed":["alphabets","numbers","symbols"],
  "Password":"Student@123"
+},
+{
+"id":82,
+"difficulty":"Easy",
+"charactersUsed":["alphabets"],
+"Password":"simple password"
 },
 {
 
@@ -959,5 +962,4 @@
 
 },
 
-
-
+]
