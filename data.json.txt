@@ -1126,5 +1126,11 @@
       "difficulty":"difficult",
       "chractersUsed":["alphabets","numbers","special characters"],
       "Password":"bankai@31234",
-     }
+     },
+     {
+       "id":170,
+       "difficulty":"difficult",
+       "chractersUsed":"numbers+characters+symbol",
+       "Password":"580lGyVw9z^B"
+    }
 ]
