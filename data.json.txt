@@ -975,13 +975,26 @@
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"Pro@Max*90"
   },
+  
+   {      
+"id":"22",
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"pja@9846%123",
+   },
+ {
+      "id":15,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"gau123",
+   },
 
   {
   "id":148,
   "difficulty":"Medium",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"*!Wakanada@Forever!*"
-}
+},
 
   {
   "id":149,
@@ -1093,6 +1106,18 @@
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"laudeSAkndju@123"
   },
-
-  ]
   
+{
+      "id":28,
+      "difficulty":"medium",
+      "chractersUsed":"numbers+characters",
+      "Password":"surname_123",
+}, 
+    {
+      "id":29,
+      "difficulty":"difficult",
+      "chractersUsed":["alphabets","numbers","special characters"],
+      "Password":"bankai@31234",
+     }
+
+]
