@@ -1016,7 +1016,13 @@
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"LegendGeek@2022"
-  }
+  },
+  {
+  "id":300,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"Iphone@Ultra*Pro&Max15"
+  },
 
   ]
   
