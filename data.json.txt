@@ -174,7 +174,7 @@
   },
   
   {      
-  "id":26,
+       "id":26,
        "difficulty":"easy",
        "chractersUsed":"numbers",
        "Password":"88888888"
@@ -348,7 +348,6 @@
   },
   {
        "id":52,
-  
        "difficulty":"moderate",
        "chractersUsed":"numbers",
        "Password":"9421249051"
@@ -371,7 +370,13 @@
        "chractersUsed":"numbers",
        "Password":"9920826082"
   },
+  {
   
+       "id":56,
+       "difficulty":"difficult",
+       "chractersUsed":"num,lower&uppercase",
+       "Password":"LandLeleMeraBhenKelaude"
+  },
   {
   
        "id":57,
@@ -509,6 +514,12 @@
        "difficulty":"hard",
        "chractersUsed":"numbers+characters+special characters",
        "Password":"koko@surname_12%3"
+  },
+   {
+       "id":77,
+       "difficulty":"hard",
+       "chractersUsed":["alphabets","numbers","special characters"],
+       "Password":"suckmyB@@BS69"
   },
   {
        "id":78,
