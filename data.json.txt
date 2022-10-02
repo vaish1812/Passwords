@@ -1027,6 +1027,72 @@
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"Nokia3310@123"
   },
+  {
+  "id":156,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"LaudeKaSarkar@2022"
+  },
+  {
+  "id":157,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"Iphone@Ultra*Pro&Max16"
+  }
+  {
+  "id":158,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"LegendGeek@2028"
+  },
+  {
+  "id":159,
+  "difficulty":"Easy",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"laudeKAphone@123"
+  },
+  {
+  "id":160,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"xiomi@Ultra*Pro&Max15"
+  }
+  {
+  "id":161,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"LegendLand@4022"
+  },
+  {
+  "id":162,
+  "difficulty":"Easy",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"Nokia3310@Legend"
+  },
+  {
+  "id":163,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"LaudeKaSEX@69"
+  },
+  {
+  "id":164,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"Iphone@Ultra*Pro&Max16"
+  }
+  {
+  "id":165,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"LjsadiuKK@7878"
+  },
+  {
+  "id":166,
+  "difficulty":"Easy",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"laudeSAkndju@123"
+  },
 
   ]
   
