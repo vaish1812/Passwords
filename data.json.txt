@@ -839,7 +839,7 @@
   }
   ,
     {
-       "id":77,
+       "id":128,
        "difficulty":"medium",
        "chractersUsed":"alphabets & numbers",
        "Password":"abcd12345"
@@ -847,154 +847,152 @@
    
   
   {
-   "id":78,
+   "id":129,
    "difficulty":"Hard",
    "chractersUsed":["alphabets","numbers","special characters"],
    "Password":"Dob@334"
   },
   {
-   "id":79,
+   "id":130,
    "difficulty":"Hard",
    "chractersUsed":["alphabets","numbers","special characters"],
    "Password":"mongo%@334"
   },
   {
   
-    "id":80,
+    "id":131,
     "difficulty":"Easy",
     "chractersUsed":["alphabets","numbers"],
     "Password":"Hello123"
   },
      {
-        "id":81,
+        "id":132,
         "difficulty":"difficult",
         "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
         "Password":"GDSC@wce$123"
      },
   {
-   "id":82,
+   "id":133,
    "difficulty":"Easy",
    "chractersUsed":["alphabets","numbers"],
    "Password":"Hello123"
   },
   {
-   "id":83,
+   "id":134,
    "difficulty":"Difficult",
    "chractersUsed":["5Uppercase,1Lowercase,2numbers,1specialcharacter"],
    "Password":"RAHULr02@"
   },
   {
-   "id":84,
+   "id":135,
    "difficulty":"Easy",
    "chractersUsed":["alphabets","numbers"],
    "Password":"a1b2c3d4"
   },
   {
-   "id":85,
+   "id":136,
    "difficulty":"Easy",
    "chractersUsed":["alphabets","numbers"],
    "Password":"forgot password"
   },
   {
-   "id":86,
+   "id":137,
    "difficulty":"Hard",
    "chractersUsed":["alphabets,numbers,specialcharacter"],
    "Password":"$is4richminds"
   },
   {
-   "id":86,
+   "id":138,
    "difficulty":"Medium",
    "chractersUsed":["alphabets,specialcharacter"],
    "Password":"whatispassword? "
   },
   {
-   "id":81,
+   "id":139,
    "difficulty":"Difficult",
    "chractersUsed":["alphabets","numbers","symbols"],
    "Password":"Student@123"
   },
   {
-  "id":82,
+  "id":140,
   "difficulty":"Easy",
   "charactersUsed":["alphabets"],
   "Password":"simple password"
   },
   {
   
-   "id":230,
-  
+   "id":141,
    "difficulty":"Difficult",
-  
    "chractersUsed":["alphabets","numbers","symbols"],
-  
-   "Password":"Mothersname@0dob"
-  
+   "Password":"Mothersname@0dob",
   },
+  
   {
-  "id":83,
+  "id":142,
   "difficulty":"Moderate",
   "charactersUsed":["alphabets","numbers"],
   "Password":"flying123"
   },
+  
   {
-  "id":84,
+  "id":143,
   "difficulty":"Moderate",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"NAMEp@02!"
   },
   {
-  "id":278,
+  "id":144,
   "difficulty":"Easy",
   "charactersUsed":["alphabets","numbers"],
   "Password":"Vai4589bhai"
   },
   {
-  "id":279,
+  "id":145,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"WordI12345know!*&**"
   },
   {
-  "id":280,
+  "id":146,
   "difficulty":"Easy",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"Iloveyou@69"
   },
   {
-  "id":281,
+  "id":147,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"Pro@Max*90"
   },
 
   {
-  "id":282,
+  "id":148,
   "difficulty":"Medium",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"*!Wakanada@Forever!*"
 }
 
   {
-  "id":282,
+  "id":149,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"s7FV#.!EvPW8&vu"
 }
     {
-  "id":282,
+  "id":150,
   "difficulty":"Easy",
   "charactersUsed":["alphabets"],
   "Password":"hacktoberfest"
    }
   {
 
-  "id":282,
+  "id":151,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"KJ2sKeihAMga@h@"
   }
   {
-  "id":281,
+  "id":152,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"LegendGeek@2022"
