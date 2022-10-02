@@ -966,7 +966,7 @@
   },
 
   {
-  "id":285,
+  "id":148,
   "difficulty":"Medium",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"*!Wakanada@Forever!*"
@@ -980,38 +980,38 @@
 }
     {
 
-  "id":284,
+  "id":150,
   "difficulty":"Easy",
   "charactersUsed":["alphabets"],
   "Password":"hacktoberfest"
    }
   {
 
-  "id":283,
+  "id":151,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"KJ2sKeihAMga@h@"
 },
 {
-  "id":281,
-  "difficulty":"Hard",
-  "charactersUsed":["alphabets","numbers","characters"],
-  "Password":"LegendGeek@2022"
-  },
-  {
-  "id":300,
-  "difficulty":"Hard",
-  "charactersUsed":["alphabets","numbers","characters"],
-  "Password":"Iphone@Ultra*Pro&Max15"
-  }
-  {
   "id":152,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"LegendGeek@2022"
   },
   {
-  "id":298,
+  "id":153,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"Iphone@Ultra*Pro&Max15"
+  }
+  {
+  "id":154,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"LegendGeek@2022"
+  },
+  {
+  "id":155,
   "difficulty":"Easy",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"Nokia3310@123"
