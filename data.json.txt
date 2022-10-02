@@ -988,6 +988,13 @@
 
   {
   "id":282,
+  "difficulty":"Medium",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"*!Wakanada@Forever!*"
+
+
+  {
+  "id":282,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"s7FV#.!EvPW8&vu"
@@ -1004,6 +1011,8 @@
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"LegendGeek@2022"
 
+
   }
+
   ]
   
