@@ -966,7 +966,7 @@
   },
 
   {
-  "id":148,
+  "id":285,
   "difficulty":"Medium",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"*!Wakanada@Forever!*"
@@ -979,14 +979,21 @@
   "Password":"s7FV#.!EvPW8&vu"
 }
     {
-  "id":150,
+
+  "id":284,
   "difficulty":"Easy",
   "charactersUsed":["alphabets"],
   "Password":"hacktoberfest"
    }
   {
 
-  "id":151,
+  "id":283,
+  "difficulty":"Hard",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"KJ2sKeihAMga@h@"
+},
+{
+  "id":281,
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"KJ2sKeihAMga@h@"
@@ -996,7 +1003,13 @@
   "difficulty":"Hard",
   "charactersUsed":["alphabets","numbers","characters"],
   "Password":"LegendGeek@2022"
-  }
+  },
+  {
+  "id":298,
+  "difficulty":"Easy",
+  "charactersUsed":["alphabets","numbers","characters"],
+  "Password":"Nokia3310@123"
+  },
 
   ]
   
