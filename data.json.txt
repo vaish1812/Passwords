@@ -2355,6 +2355,11 @@
     },
     {
         "id": 174,
+        "difficulty": "Hard",
+        "chractersUsed": "numbers+character+special_Symbol",
+        "Password": "8956ZxyauTY@"
+    },
+        "id": 176
         "difficulty": "very easy",
         "chractersUsed": "numbers+characters",
         "Password": "qwertyuiop54321"
