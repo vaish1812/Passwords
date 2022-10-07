@@ -2353,7 +2353,12 @@
         "Password": "Test@123"
 
     },
-
+    {
+        "id": 174,
+        "difficulty": "very easy",
+        "chractersUsed": "numbers+characters",
+        "Password": "qwertyuiop54321"
+        },
     {
         "id": 174,
         "difficulty": "difficult",
@@ -2365,5 +2370,5 @@
         "difficulty": "hard",
         "chractersUsed": "numbers + characters + special symbols",
         "Password": "ABbcfr@2930"
-    }
+    },
 ]
