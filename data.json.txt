@@ -2345,12 +2345,46 @@
         "difficulty": "medium",
         "chractersUsed": "numbers+characters",
         "Password": "2309$mhr_rt45"
-
+    },
+      {
+        "id": 174,
+        "difficulty": "medium",
+        "chractersUsed": "numbers+characters",
+        "Password": "Test@123"
     }, 
     {
         "id": 174,
         "difficulty": "hard",
         "charactersUsed": "ASCII",
         "Password": "3e74Do8#@cK3r!97#eH0U$ed0T<()/|\"
-    }
+    },
+    {
+        "id": 174,
+        "difficulty": "Hard",
+        "chractersUsed": "num & lowercase",
+        "Password": "hjbvufhvbiuvgiwujfbjwyehfgvujfbijbvuivb@123"
+    }, 
+    {
+        "id": 174,
+        "difficulty": "Hard",
+        "chractersUsed": "numbers+character+special_Symbol",
+        "Password": "8956ZxyauTY@"
+    },
+        "id": 176
+        "difficulty": "very easy",
+        "chractersUsed": "numbers+characters",
+        "Password": "qwertyuiop54321"
+        },
+    {
+        "id": 174,
+        "difficulty": "difficult",
+        "chractersUsed": "characters+symbol",
+        "Password": "$u<h@g00dPwd!"
+    },
+     {
+        "id": 177,
+        "difficulty": "hard",
+        "chractersUsed": "numbers + characters + special symbols",
+        "Password": "ABbcfr@2930"
+    },
 ]
