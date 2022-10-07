@@ -2352,5 +2352,11 @@
         "chractersUsed": "numbers+characters",
         "Password": "Test@123"
 
+    },
+     {
+        "id": 452,
+        "difficulty": "hard",
+        "chractersUsed": "numbers + characters + special symbols",
+        "Password": "ABbcfr@2930"
     }
 ]
