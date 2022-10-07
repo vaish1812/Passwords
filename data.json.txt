@@ -2345,6 +2345,12 @@
         "difficulty": "medium",
         "chractersUsed": "numbers+characters",
         "Password": "2309$mhr_rt45"
+    },
+      {
+        "id": 174,
+        "difficulty": "medium",
+        "chractersUsed": "numbers+characters",
+        "Password": "Test@123"
 
     }
 ]
