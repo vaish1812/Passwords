@@ -2345,6 +2345,12 @@
         "difficulty": "medium",
         "chractersUsed": "numbers+characters",
         "Password": "2309$mhr_rt45"
+    },
+      {
+        "id": 174,
+        "difficulty": "medium",
+        "chractersUsed": "numbers+characters",
+        "Password": "Test@123"
 
     },
     {
@@ -2352,6 +2358,17 @@
         "difficulty": "very easy",
         "chractersUsed": "numbers+characters",
         "Password": "qwertyuiop54321"
-
-    }
+        },
+    {
+        "id": 174,
+        "difficulty": "difficult",
+        "chractersUsed": "characters+symbol",
+        "Password": "$u<h@g00dPwd!"
+    },
+     {
+        "id": 452,
+        "difficulty": "hard",
+        "chractersUsed": "numbers + characters + special symbols",
+        "Password": "ABbcfr@2930"
+    },
 ]
