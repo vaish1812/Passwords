@@ -2306,7 +2306,8 @@
         "difficulty": "medium",
         "chractersUsed": "numbers+characters",
         "Password": "pja@9846%123"
-    },    {
+    },    
+    {
         "id": 168,
         "difficulty": "medium",
         "chractersUsed": "numbers+characters",
@@ -2353,37 +2354,37 @@
         "Password": "Test@123"
     }, 
     {
-        "id": 174,
+        "id": 175,
         "difficulty": "hard",
         "charactersUsed": "ASCII",
         "Password": "3e74Do8#@cK3r!97#eH0U$ed0T<()/|\"
     },
     {
-        "id": 174,
+        "id": 176,
         "difficulty": "Hard",
         "chractersUsed": "num & lowercase",
         "Password": "hjbvufhvbiuvgiwujfbjwyehfgvujfbijbvuivb@123"
     }, 
     {
-        "id": 174,
+        "id": 177,
         "difficulty": "Hard",
         "chractersUsed": "numbers+character+special_Symbol",
         "Password": "8956ZxyauTY@"
     },
-        "id": 176
-        "difficulty": "very easy",
+        "id": 178,
+        "difficulty": "medium",
         "chractersUsed": "numbers+characters",
         "Password": "qwertyuiop54321"
         },
     {
-        "id": 174,
+        "id": 179,
         "difficulty": "difficult",
         "chractersUsed": "characters+symbol",
         "Password": "$u<h@g00dPwd!"
     },
      {
-        "id": 177,
-        "difficulty": "hard",
+        "id": 180,
+        "difficulty": "very hard",
         "chractersUsed": "numbers + characters + special symbols",
         "Password": "ABbcfr@2930"
     },
