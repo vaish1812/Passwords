@@ -2353,6 +2353,13 @@
         "Password": "Test@123"
 
     },
+
+    {
+        "id": 174,
+        "difficulty": "difficult",
+        "chractersUsed": "characters+symbol",
+        "Password": "$u<h@g00dPwd!"
+    },
      {
         "id": 452,
         "difficulty": "hard",
